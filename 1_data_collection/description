@@ -1,1 +1,2 @@
-Use Darksky API to pull weather data by geolocation and date
+API_Darksky = Use Darksky API to pull weather data by geolocation and date
+API_OCD = Use geolocation API to obtain reverse geolocation data
