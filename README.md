@@ -1,8 +1,4 @@
-# Predicting Water Quality
-
-If you want to embed images, this is how you do it:
-
-![Image of Yaktocat](https://github.com/claudia-dahinten/capstone-project/blob/master/IMG_20190709_091548%20(1).jpg)
+# Predicting Water Quality using Earthwatch Data
 
 **INTRODUCTION** <br/>
 Due to my interest in the field of environment and sustainability and the relevance of using real world data, I chose to do my final project of General Assembly’s Data Science Immersive course, on a dataset provided to me by the environmental charity Earthwatch www.earthwatch.org.uk.
