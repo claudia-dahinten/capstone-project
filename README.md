@@ -27,26 +27,26 @@ After speaking to a scientist at Earthwatch, they explained that they usually sp
 
 The first thing I noticed when visualising was that phosphate and nitrate levels have very low correlation - which was slightly surprising but it also intrigued me to see how the site characteristics vary.
 
-Some observed differences:
+Some observed differences: <br/>
 Freshwater body types:
 - phosphate levels higher in rivers and streams
 - nitrate levels higher in lakes, wetlands
 - ponds have good levels for both nitrates and phosphates
-Land Use:
+Land Use: <br/>
 - phosphate higher in residential areas (detergents/additives), agriculture (fertilizer)
 - nitrate higher with agriculture/ industrial
 - agriculture has stronger effect on phosphate levels than nitrate levels (but bad for both)
 - grassland/shrub, forest and indicators for low levels of both (BUT low levels of observations)
-Algae:
+Algae: <br/>
 As nitrate and phosphate can induce algae to grow, I was very interested to see whether algae is an indication of high chemical levels. The results showed that there is a slight tendency to observe higher chemical levels where algae is present, but it is not a large enough difference to conclude this to be statistically significant.
 
-Time of year
+Time of year <br/>
 I also thought it would be interesting to see whether chemical levels change substantially by time of year (there may be more agriculture and therefore higher levels of chemicals in the soil at certain points of the year). Looking at the observations, however, there doesn’t seem to be a significant trend.
 
-Precipitation
+Precipitation <br/>
 Surface run-off is a common issue in agriculture and I included weather data (1 day ago) to explore whether this is a factor here. The results turned out to be the opposite as expected i.e. with more precipitation there are lower chemical levels present.
 
-Geolocations
+Geolocations <br/>
 Nitrate levels are high in Europe and South America (Note: few observations in South America)
 Phosphate levels are high in South America, North America and Asia
 
