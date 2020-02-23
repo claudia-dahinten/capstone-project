@@ -31,6 +31,7 @@ The first thing I noticed when visualising was that phosphate and nitrate levels
 - phosphate levels higher in rivers and streams
 - nitrate levels higher in lakes, wetlands
 - ponds have good levels for both nitrates and phosphates
+
 **Land Use:** <br/>
 - phosphate higher in residential areas (detergents/additives), agriculture (fertilizer)
 - nitrate higher with agriculture/ industrial
