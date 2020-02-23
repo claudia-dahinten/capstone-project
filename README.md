@@ -28,7 +28,7 @@ After speaking to a scientist at Earthwatch, they explained that they usually sp
 The first thing I noticed when visualising was that phosphate and nitrate levels have very low correlation - which was slightly surprising but it also intrigued me to see how the site characteristics vary.
 
 Some observed differences: <br/>
-Freshwater body types:
+__Freshwater body types:__
 - phosphate levels higher in rivers and streams
 - nitrate levels higher in lakes, wetlands
 - ponds have good levels for both nitrates and phosphates
