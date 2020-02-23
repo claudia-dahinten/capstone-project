@@ -37,6 +37,7 @@ The first thing I noticed when visualising was that phosphate and nitrate levels
 - nitrate higher with agriculture/ industrial
 - agriculture has stronger effect on phosphate levels than nitrate levels (but bad for both)
 - grassland/shrub, forest and indicators for low levels of both (BUT low levels of observations)
+
 **Algae:** <br/>
 As nitrate and phosphate can induce algae to grow, I was very interested to see whether algae is an indication of high chemical levels. The results showed that there is a slight tendency to observe higher chemical levels where algae is present, but it is not a large enough difference to conclude this to be statistically significant.
 
